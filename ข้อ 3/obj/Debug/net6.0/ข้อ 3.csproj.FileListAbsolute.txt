@@ -1,0 +1,15 @@
+D:\.งานปี 2 ทั้งหมด\GDM222\ข้อ 3\bin\Debug\net6.0\ข้อ 3.exe
+D:\.งานปี 2 ทั้งหมด\GDM222\ข้อ 3\bin\Debug\net6.0\ข้อ 3.deps.json
+D:\.งานปี 2 ทั้งหมด\GDM222\ข้อ 3\bin\Debug\net6.0\ข้อ 3.runtimeconfig.json
+D:\.งานปี 2 ทั้งหมด\GDM222\ข้อ 3\bin\Debug\net6.0\ข้อ 3.dll
+D:\.งานปี 2 ทั้งหมด\GDM222\ข้อ 3\bin\Debug\net6.0\ข้อ 3.pdb
+D:\.งานปี 2 ทั้งหมด\GDM222\ข้อ 3\obj\Debug\net6.0\ข้อ 3.csproj.AssemblyReference.cache
+D:\.งานปี 2 ทั้งหมด\GDM222\ข้อ 3\obj\Debug\net6.0\ข้อ 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\.งานปี 2 ทั้งหมด\GDM222\ข้อ 3\obj\Debug\net6.0\ข้อ 3.AssemblyInfoInputs.cache
+D:\.งานปี 2 ทั้งหมด\GDM222\ข้อ 3\obj\Debug\net6.0\ข้อ 3.AssemblyInfo.cs
+D:\.งานปี 2 ทั้งหมด\GDM222\ข้อ 3\obj\Debug\net6.0\ข้อ 3.csproj.CoreCompileInputs.cache
+D:\.งานปี 2 ทั้งหมด\GDM222\ข้อ 3\obj\Debug\net6.0\ข้อ 3.dll
+D:\.งานปี 2 ทั้งหมด\GDM222\ข้อ 3\obj\Debug\net6.0\refint\ข้อ 3.dll
+D:\.งานปี 2 ทั้งหมด\GDM222\ข้อ 3\obj\Debug\net6.0\ข้อ 3.pdb
+D:\.งานปี 2 ทั้งหมด\GDM222\ข้อ 3\obj\Debug\net6.0\ข้อ 3.genruntimeconfig.cache
+D:\.งานปี 2 ทั้งหมด\GDM222\ข้อ 3\obj\Debug\net6.0\ref\ข้อ 3.dll
